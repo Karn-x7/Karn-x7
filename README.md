@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karn-x7
+- 👋 Hi, I’m @ASHUTOSH PRATAP SINGH
 - 👀 I’m interested in ...coding fitness and ART
 - 🌱 I’m currently learning ...FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...FRONTEND WEB DEVELOPMENT
